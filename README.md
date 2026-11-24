@@ -32,7 +32,7 @@
 - **On-Console Asset Compiler:** No PC conversion scripts needed — copy `Content/` once and the 3DS compiles everything natively with file-by-file **Safe Resume**.
 
 ### Installation (3 Steps)
-1. **Download and install** either format from **[Releases](https://github.com/alberdura/Celeste3DS-releases/releases)**:
+1. **Download and install** `v1.0.2` in either format from **[Releases](https://github.com/alberdura/Celeste3DS-releases/releases)**:
    - **`.3dsx` (Homebrew Launcher):** Copy `Celeste3DS.3dsx` to `sdmc:/3ds/celeste3ds/Celeste3DS.3dsx`.
    - **`.cia` (HOME Menu):** Install `Celeste3DS.cia` with **FBI**.
 2. **Copy your PC `Content/` folder** from your legal copy of *Celeste* onto your SD card at:
@@ -67,7 +67,7 @@
 - **Compilador Nativo en 3DS:** Sin scripts externos de PC — copia `Content/` una vez y tu 3DS compila todos los recursos con **reanudación segura** archivo por archivo.
 
 ### Instalación en 3 Pasos
-1. **Descarga e instala** el formato que prefieras desde **[Releases](https://github.com/alberdura/Celeste3DS-releases/releases)**:
+1. **Descarga e instala** la versión `v1.0.2` en el formato que prefieras desde **[Releases](https://github.com/alberdura/Celeste3DS-releases/releases)**:
    - **`.3dsx` (Homebrew Launcher):** Copia `Celeste3DS.3dsx` en `sdmc:/3ds/celeste3ds/Celeste3DS.3dsx`.
    - **`.cia` (Menú HOME):** Instala `Celeste3DS.cia` con **FBI**.
 2. **Copia la carpeta `Content/`** de tu copia original de *Celeste* en PC dentro de tu tarjeta SD:
