@@ -26,13 +26,15 @@
 
 ## English
 
+> I don't recommend anyone to experience Celeste for the first time through this port. It's more of a way for people who already love the game to enjoy it on a different platform. Celeste is one of my favourite games, and the 3DS is my favourite console. I simply wanted to bring the two together.
+
 ### Highlights
 - **Complete Story + B-Sides:** Prologue + Chapters 1–8 (A-Side & B-Side remixes), Assist Mode, 3 Save Slots, and live **English / Español** support.
 - **Sharp Hybrid Rendering:** Pixel-exact **320×180 (60 FPS)** gameplay scaled cleanly to **400×240** (`GPU_NEAREST`), with native **400×240 / 320×240** UI, portraits, and bottom-screen map/stats.
 - **On-Console Asset Compiler:** No PC conversion scripts needed — copy `Content/` once and the 3DS compiles everything natively with file-by-file **Safe Resume**.
 
 ### Installation (3 Steps)
-1. **Download and install** `v1.0.2` in either format from **[Releases](https://github.com/alberdura/Celeste3DS-releases/releases)**:
+1. **Download and install** `v1.0.3` in either format from **[Releases](https://github.com/alberdura/Celeste3DS-releases/releases)**:
    - **`.3dsx` (Homebrew Launcher):** Copy `Celeste3DS.3dsx` to `sdmc:/3ds/celeste3ds/Celeste3DS.3dsx`.
    - **`.cia` (HOME Menu):** Install `Celeste3DS.cia` with **FBI**.
 2. **Copy your PC `Content/` folder** from your legal copy of *Celeste* onto your SD card at:
@@ -61,13 +63,15 @@
 
 ## Español
 
+> No recomiendo a nadie jugar a Celeste por primera vez a través de este port. Es más bien una forma de que quienes ya aman el juego puedan disfrutarlo en una plataforma diferente. Celeste es uno de mis juegos favoritos y la 3DS es mi consola favorita; simplemente quería unir ambas cosas.
+
 ### Características
 - **Historia completa + Caras B:** Prólogo + Capítulos 1–8 (Caras A y B), Modo Asistencia, 3 ranuras de guardado e interfaz/diálogos **bilingües (Español / English)**.
 - **Renderizado Híbrido Nítido:** Juego exacto a **320×180 (60 FPS)** escalado con `GPU_NEAREST` a **400×240**, con textos, retratos, menús y diario táctil en resolución nativa.
 - **Compilador Nativo en 3DS:** Sin scripts externos de PC — copia `Content/` una vez y tu 3DS compila todos los recursos con **reanudación segura** archivo por archivo.
 
 ### Instalación en 3 Pasos
-1. **Descarga e instala** la versión `v1.0.2` en el formato que prefieras desde **[Releases](https://github.com/alberdura/Celeste3DS-releases/releases)**:
+1. **Descarga e instala** la versión `v1.0.3` en el formato que prefieras desde **[Releases](https://github.com/alberdura/Celeste3DS-releases/releases)**:
    - **`.3dsx` (Homebrew Launcher):** Copia `Celeste3DS.3dsx` en `sdmc:/3ds/celeste3ds/Celeste3DS.3dsx`.
    - **`.cia` (Menú HOME):** Instala `Celeste3DS.cia` con **FBI**.
 2. **Copia la carpeta `Content/`** de tu copia original de *Celeste* en PC dentro de tu tarjeta SD:
