@@ -34,7 +34,7 @@
 - **On-Console Asset Compiler:** No PC conversion scripts needed — copy `Content/` once and the 3DS compiles everything natively with file-by-file **Safe Resume**.
 
 ### Installation (3 Steps)
-1. **Download and install** `v1.0.3` in either format from **[Releases](https://github.com/alberdura/Celeste3DS-releases/releases)**:
+1. **Download and install** `v1.1` in either format from **[Releases](https://github.com/alberdura/Celeste3DS-releases/releases)**:
    - **`.3dsx` (Homebrew Launcher):** Copy `Celeste3DS.3dsx` to `sdmc:/3ds/celeste3ds/Celeste3DS.3dsx`.
    - **`.cia` (HOME Menu):** Install `Celeste3DS.cia` with **FBI**.
 2. **Copy your PC `Content/` folder** from your legal copy of *Celeste* onto your SD card at:
@@ -47,6 +47,8 @@
    - Every boot after that starts **instantly**.
 
 *(Tip: Make sure `sdmc:/3ds/dspfirm.cdc` exists on your SD card for NDSP sound and music, and keep ~250 MB free alongside `Content/`.)*
+
+> **Updating:** You do **not** need to redo the whole setup or recompile the cache when updating. Just replace `Celeste3DS.3dsx` on your SD card (or install the new `Celeste3DS.cia` over the old one via FBI)—your existing `cache/` and save files will be kept intact.
 
 ### Controls
 | Nintendo 3DS | Action |
@@ -71,7 +73,7 @@
 - **Compilador Nativo en 3DS:** Sin scripts externos de PC — copia `Content/` una vez y tu 3DS compila todos los recursos con **reanudación segura** archivo por archivo.
 
 ### Instalación en 3 Pasos
-1. **Descarga e instala** la versión `v1.0.3` en el formato que prefieras desde **[Releases](https://github.com/alberdura/Celeste3DS-releases/releases)**:
+1. **Descarga e instala** la versión `v1.1` en el formato que prefieras desde **[Releases](https://github.com/alberdura/Celeste3DS-releases/releases)**:
    - **`.3dsx` (Homebrew Launcher):** Copia `Celeste3DS.3dsx` en `sdmc:/3ds/celeste3ds/Celeste3DS.3dsx`.
    - **`.cia` (Menú HOME):** Instala `Celeste3DS.cia` con **FBI**.
 2. **Copia la carpeta `Content/`** de tu copia original de *Celeste* en PC dentro de tu tarjeta SD:
@@ -84,6 +86,8 @@
    - A partir de ahí, el juego arrancará **al instante**.
 
 *(Nota: Asegúrate de tener `sdmc:/3ds/dspfirm.cdc` en la SD para escuchar música y efectos vía NDSP, y unos ~250 MB libres adicionales para la caché).*
+
+> **Al actualizar:** **No** hace falta repetir todo el proceso ni volver a compilar la caché en cada actualización. Solo tienes que sustituir `Celeste3DS.3dsx` en tu tarjeta SD (o instalar el nuevo `Celeste3DS.cia` encima con FBI); tu carpeta `cache/` y tus partidas guardadas se mantendrán intactas.
 
 ### Controles
 | Nintendo 3DS | Acción |
@@ -101,4 +105,5 @@
 ## Credits / Créditos
 - **Celeste 3DS** port by **alberdura**
 - Original *Celeste* by **Maddy Makes Games & Extremely OK Games (EXOK)**
+- Special Thanks: **gold7690** and **AccountantNo7370**
 - Built with `devkitARM`, `libctru`, `citro2d`, `citro3d`, `stb_vorbis`
